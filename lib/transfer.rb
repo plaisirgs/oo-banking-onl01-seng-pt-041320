@@ -1,4 +1,4 @@
-class Transfer
+class Transfer < Ban
   
   def initialize
   

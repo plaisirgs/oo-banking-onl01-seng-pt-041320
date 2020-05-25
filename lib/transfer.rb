@@ -1,6 +1,6 @@
-class Transfer < Ban
+class Transfer 
   
-  def initialize
+  def initialize(from_account, to_account, amount)
   
   end
   

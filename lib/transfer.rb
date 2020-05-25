@@ -16,7 +16,7 @@ class Transfer
   
   
   def execute_transaction
-  
+    @sender.balance = @sender.balance - @amount
   end
   
 end
